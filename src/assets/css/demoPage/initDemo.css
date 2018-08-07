@@ -1,0 +1,86 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+#code {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+
+/****tab****/
+
+#tab2,
+#tab1 {
+    height: 100%;
+    position: absolute;
+    width: 99%;
+}
+
+
+/***********bootstrap 更改**********/
+
+.panel-body {
+    height: 100%;
+    width: 100%;
+}
+
+.btn {
+    margin-top: 5px;
+}
+
+.form-control {
+    margin-top: 5px;
+}
+
+.form-inline {
+    padding: 10px;
+}
+
+.bootstrap-table {
+    border: 1px solid #29bae5;
+    border-radius: 6px;
+}
+
+.pre-table {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.form-inline {
+    border: 1px solid gray;
+    border-radius: 6px;
+    padding: 10px;
+}
+
+
+/****滚动条***/
+
+.jspScrollable,
+.jspContainer,
+.jspPane {
+    width: 100% !important;
+}
+
+.jspVerticalBar {
+    width: 8px;
+}
+
+.jspTrack {
+    background: #c6e2ea;
+}
+
+.jspDrag {
+    border-radius: 100px;
+    background: #5bc0de;
+}
